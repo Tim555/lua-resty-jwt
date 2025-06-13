@@ -1,5 +1,5 @@
 package = 'lua-resty-jwt'
-version = '0.2.0'
+version = '0.2.0-1'
 source = {
   url = "git+https://github.com/Tim555/lua-resty-jwt",
   tag = "v0.2.0",
